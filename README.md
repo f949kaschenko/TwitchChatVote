@@ -29,8 +29,13 @@ Twitch Chat Vote — это веб-приложение, позволяющее 
 - Красивый фон:
 *[VincentGarreau - GitHub](https://github.com/VincentGarreau/particles.js)*
 
-### License:
+---
 
-This project is licensed under the MIT License.
-It includes particles.js by Vincent Garreau.
-See the LICENSE file for details.
+### License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+#### Third-party components:
+* **[particles.js](https://github.com/VincentGarreau/particles.js/)** — Copyright (c) 2015 Vincent Garreau. Licensed under the [MIT License](https://github.com/VincentGarreau/particles.js/blob/master/LICENSE.md).
+
+---
