@@ -8,7 +8,7 @@
 
 ### Ссылка для запуска:
 
-*[Тык сюда](https://kaschenkkko.github.io/TwitchChatVote/twitch?channel=YOUR_CHANNEL_NAME)*
+*[Тык сюда](https://f949kaschenko.github.io/TwitchChatVote/twitch?channel=YOUR_CHANNEL_NAME)*
 
 ### Описание проекта:
 
